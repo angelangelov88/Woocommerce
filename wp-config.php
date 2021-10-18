@@ -150,7 +150,7 @@ $table_prefix = 'woocommerce';
 
  */
 
-define( 'WP_DEBUG', true );
+define( 'WP_DEBUG', false );
 
 
 /* Add any custom values between this line and the "stop editing" line. */
