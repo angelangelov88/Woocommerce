@@ -1,0 +1,2 @@
+[18-Oct-2021 10:45:12 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/angelangelov/public_html/projects/woocommerce/wp-content/plugins/woocommerce/includes/data-stores/class-wc-webhook-data-store.php on line 211
+[18-Oct-2021 10:52:08 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/angelangelov/public_html/projects/woocommerce/wp-content/plugins/woocommerce/includes/data-stores/class-wc-webhook-data-store.php on line 211

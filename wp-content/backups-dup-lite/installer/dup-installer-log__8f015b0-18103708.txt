@@ -1,0 +1,6 @@
+[PHP ERR][NOTICE] MSG:Undefined index: secure-pass [CODE:8|FILE:/home/angelangelov/public_html/projects/woocommerce/dup-installer/views/view.s1.base.php|LINE:101]
+[PHP ERR][NOTICE] MSG:Undefined index: secure-archive [CODE:8|FILE:/home/angelangelov/public_html/projects/woocommerce/dup-installer/views/view.s1.base.php|LINE:102]
+[PHP ERR][NOTICE] MSG:Undefined index: secure-pass [CODE:8|FILE:/home/angelangelov/public_html/projects/woocommerce/dup-installer/views/view.s1.base.php|LINE:797]
+[PHP ERR][NOTICE] MSG:Undefined index: secure-archive [CODE:8|FILE:/home/angelangelov/public_html/projects/woocommerce/dup-installer/views/view.s1.base.php|LINE:798]
+[PHP ERR][NOTICE] MSG:Undefined index: secure-pass [CODE:8|FILE:/home/angelangelov/public_html/projects/woocommerce/dup-installer/views/view.s1.base.php|LINE:819]
+[PHP ERR][NOTICE] MSG:Undefined index: secure-archive [CODE:8|FILE:/home/angelangelov/public_html/projects/woocommerce/dup-installer/views/view.s1.base.php|LINE:820]

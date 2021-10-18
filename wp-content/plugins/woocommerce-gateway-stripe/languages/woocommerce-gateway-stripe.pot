@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: client/data/account/resolvers.js:18
+msgid "Error retrieving account data."
+msgstr ""
+
+#: client/data/settings/resolvers.js:18
+msgid "Error retrieving settings."
+msgstr ""
+
+#: client/entrypoints/payment-gateways/disable-confirmation-modal.js:21
+msgid ""
+"Are you sure you want to disable Stripe? Without it, your customers will no "
+"longer be able to pay using the express checkouts."
+msgstr ""
+
+#: client/entrypoints/payment-gateways/disable-confirmation-modal.js:25
+msgid ""
+"Are you sure you want to disable Stripe? Without it, your customers will no "
+"longer be able to pay using the payment methods below as well as express "
+"checkouts."
+msgstr ""
+
+#: client/entrypoints/payment-gateways/disable-confirmation-modal.js:34
+msgid "Disable Stripe"
+msgstr ""
+
+#: client/entrypoints/payment-gateways/disable-confirmation-modal.js:57
+msgid "Payment methods that need Stripe:"
+msgstr ""
+
+#: client/settings/general-settings-section/section-footer.js:12
+msgid "Get more payment methods"
+msgstr ""
+
+#: client/settings/payment-settings/general-settings-section.js:23
+msgid "Enable Stripe"
+msgstr ""
+
+#: client/settings/payment-settings/general-settings-section.js:27
+msgid "When enabled, payment methods powered by Stripe will appear on checkout."
+msgstr ""
+
+#: client/settings/payment-settings/general-settings-section.js:36
+msgid "Enable test mode"
+msgstr ""
+
+#: client/settings/payment-settings/general-settings-section.js:41
+msgid ""
+"Use {{testCardNumbersLink /}} to simulate various transactions. "
+"{{learnMoreLink/}}"
+msgstr ""
+
+#: client/settings/payment-settings/general-settings-section.js:62
+msgid "Edit account keys"
+msgstr ""
+
+#: client/settings/payments-and-transactions-section/statement-preview/index.js:42
+msgid "Transaction"
+msgstr ""
+
+#: client/settings/payments-and-transactions-section/statement-preview/index.js:43
+msgid "Amount"
+msgstr ""
+
+#: client/settings/save-settings-section/index.js:23
+msgid "Save changes"
+msgstr ""
+
+#: client/stripe-utils/utils.js:106
+msgid "Invalid email address, please correct and try again."
+msgstr ""
+
+#: client/stripe-utils/utils.js:111
+msgid "Unable to process this payment, please try again or use alternative method."
+msgstr ""
+
+#: client/stripe-utils/utils.js:39
+msgid "The card number is not a valid credit card number."
+msgstr ""
+
+#: client/stripe-utils/utils.js:43
+msgid "The card expiration month is invalid."
+msgstr ""
+
+#: client/stripe-utils/utils.js:47
+msgid "The card expiration year is invalid."
+msgstr ""
+
+#: client/stripe-utils/utils.js:51
+msgid "The card security code is invalid."
+msgstr ""
+
+#: client/stripe-utils/utils.js:55
+msgid "The card number is incorrect."
+msgstr ""
+
+#: client/stripe-utils/utils.js:59
+msgid "The card number is incomplete."
+msgstr ""
+
+#: client/stripe-utils/utils.js:63
+msgid "The card security code is incomplete."
+msgstr ""
+
+#: client/stripe-utils/utils.js:67
+msgid "The card expiration date is incomplete."
+msgstr ""
+
+#: client/stripe-utils/utils.js:71
+msgid "The card has expired."
+msgstr ""
+
+#: client/stripe-utils/utils.js:75
+msgid "The card security code is incorrect."
+msgstr ""
+
+#: client/stripe-utils/utils.js:79
+msgid "The card zip code failed validation."
+msgstr ""
+
+#: client/stripe-utils/utils.js:83
+msgid "The card expiration year is in the past"
+msgstr ""
+
+#: client/stripe-utils/utils.js:87
+msgid "The card was declined."
+msgstr ""
+
+#: client/stripe-utils/utils.js:91
+msgid "There is no card on a customer that is being charged."
+msgstr ""
+
+#: client/stripe-utils/utils.js:95
+msgid "An error occurred while processing the card."
+msgstr ""
